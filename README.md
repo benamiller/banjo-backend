@@ -1,1 +1,1 @@
-# Instagram Survey Mailer
+# Tech & University Life Mailer
